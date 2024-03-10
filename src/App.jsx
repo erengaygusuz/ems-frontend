@@ -12,7 +12,7 @@ function App() {
         <HeaderComponent />
         <Routes>
           <Route path="/" element = { <ListEmployeeComponent/> }></Route>
-          <Route path="/elements" element = { <ListEmployeeComponent/> }></Route>
+          <Route path="/employees" element = { <ListEmployeeComponent/> }></Route>
           <Route path="/add-employee" element = { <EmployeeComponent/> }></Route>
         </Routes>
         <FooterComponent />
