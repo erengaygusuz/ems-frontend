@@ -23,7 +23,7 @@ const ListEmployeeComponent = () => {
         <tr>
           <th>Id</th>
           <th>First Name</th>
-          <th>last Name</th>
+          <th>Last Name</th>
           <th>Email</th>
         </tr>
       </thead>
