@@ -35,7 +35,7 @@
 
 ## Tools and Technologies Used in this Module
 
-The list of all packages and tools used in the project is provided below, along with their version and web address information.
+The list of all packages and tools used in the module is provided below, along with their version.
 
 * React JS 18
 * HTML5
@@ -47,8 +47,8 @@ The list of all packages and tools used in the project is provided below, along 
 ## Module Usage
 
 * Be sure that Visual Studio Code is installed in your PC.
-* Clone the project using this command: ``` git clone https://github.com/erengaygusuz/ems-frontend.git ```
-* Run the project with Visual Studio Code
+* Clone the module using this command: ``` git clone https://github.com/erengaygusuz/ems-frontend.git ```
+* Run the module with Visual Studio Code
 
 ## License
 
