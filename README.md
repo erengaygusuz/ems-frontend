@@ -24,7 +24,7 @@
 
 ![Alt text](/screenshots/ems-architecture.png)
 
-## General Technical Features of the Project
+## General Technical Features of this Module
 
 * Component Based Design
 * Making Http Request with Axios to Rest API
@@ -33,7 +33,7 @@
 * Adding Custom Domains to FrontEnd Apps
 * Adding Lets Encrypt SSL Wilcard Certficate to Domains
 
-## Tools and Technologies Used in the Project
+## Tools and Technologies Used in this Module
 
 The list of all packages and tools used in the project is provided below, along with their version and web address information.
 
@@ -44,7 +44,7 @@ The list of all packages and tools used in the project is provided below, along 
 * Javascript
 * Vite JS
 
-## Project Usage
+## Module Usage
 
 * Be sure that Visual Studio Code is installed in your PC.
 * Clone the project using this command: ``` git clone https://github.com/erengaygusuz/ems-frontend.git ```
