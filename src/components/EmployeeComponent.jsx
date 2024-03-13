@@ -95,6 +95,10 @@ const EmployeeComponent = () => {
     }
   }
 
+  function goToEmployeeList(){
+    navigator('/employees');
+  }
+
   return (
     <div className='container'>
 
@@ -143,7 +147,8 @@ const EmployeeComponent = () => {
                   {errors.email && <div className='invalid-feedback'>{errors.email}</div>}
                 </div>
 
-                <button className='btn btn-success' onClick={saveOrUpdateEmployee}>Submit</button>
+                <button className='btn btn-success me-2' onClick={saveOrUpdateEmployee}>Submit</button>
+                <button className='btn btn-info' onClick={goToEmployeeList}>Back</button>
             </form>
           </div>
         </div>
