@@ -1,8 +1,65 @@
-# React + Vite
+# EMS - Frontend (Employee Management System Demo)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Alt text](/screenshots/ems-1.png)
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* The general purpose of the project is to create, update, delete and view the information of employees in a company on the web.
+
+* This repo contains the frontend module of the project.
+
+* You can try the live version of the front end module at the following addresses:
+* Link 1: https://ems1.erengaygusuz.com.tr (netlify)
+* Link 2: https://ems2.erengaygusuz.com.tr (vercel)
+
+## Project Architecture
+
+* There are 3 layers in the application part of the project. These are:
+
+  - PresentationLayer (FrontEndApp)
+  - DataAccessLayer (BackEndApp)
+  - DatabaseLayer (Database)
+ 
+* Additionally, the general architectural diagram of the project is shown in the image below:
+
+![Alt text](/screenshots/ems-architecture.png)
+
+## General Technical Features of the Project
+
+* Component Based Design
+* Making Http Request with Axios to Rest API
+* Generating Project with Vite.js
+* Deployment to Vercel and Netlify
+* Adding Custom Domains to FrontEnd Apps
+* Adding Lets Encrypt SSL Wilcard Certficate to Domains
+
+## Tools and Technologies Used in the Project
+
+The list of all packages and tools used in the project is provided below, along with their version and web address information.
+
+* React JS 18
+* HTML5
+* CSS3
+* Bootstrap 5.3.3
+* Javascript
+* Vite JS
+
+## Project Usage
+
+* Be sure that Visual Studio Code is installed in your PC.
+* Clone the project using this command: ``` git clone https://github.com/erengaygusuz/ems-frontend.git ```
+* Run the project with Visual Studio Code
+
+## License
+
+The MIT License (MIT)
+
+## Screenshots
+
+![Alt text](/screenshots/ems-1.png)
+
+![Alt text](/screenshots/ems-2.png)
+
+![Alt text](/screenshots/ems-3.png)
+
+![Alt text](/screenshots/ems-4.png)
